@@ -1,16 +1,15 @@
-## Hi there 👋
+# 안녕하세요, 문수호입니다 👋
 
-<!--
-**munsuho1004/munsuho1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+컴퓨터공학과 학생이고, 백엔드 개발자를 목표로 공부하고 있습니다.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages**: C++, Java (학습 중), Python (학습 중)
+- **Tools**: Git, Visual Studio, IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 지금 하고 있는 것
+- Java / Spring 백엔드 공부
+- 알고리즘 문제 풀이
+- AI 해커톤 참가 준비
+
+## 📫 Contact
+- Email: munsuho1004@naver.com
